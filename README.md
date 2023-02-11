@@ -21,7 +21,7 @@
 </html>
 ```
 
-```css
+```html
 body {
   color:  red,
   font-size: 10px
